@@ -1,8 +1,5 @@
 ### ⭐ Ola!! Eu sou o Everson, sou estudante de informática do Cefet-rj e criei esse GitHub para organizar melhor as atividades e projetos estudantis!
 
-- 💻 Estudando: JavaScript, Python, HTML5 e CSS3
-- 📫 Contate-me: studentprogramming48@gmail.com
-
 <div align="center">
   <a href="https://github.com/Halliday48">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Halliday48&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
