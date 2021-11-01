@@ -1,8 +1,8 @@
 ### ⭐ Ola!! Eu sou o Everson, sou estudante de informática do Cefet-rj e criei esse GitHub para organizar melhor as atividades e projetos estudantis!
 
 - 💻 Estudando: JavaScript, Python, HTML5 e CSS3
-- 🗺️ Localização: https://www.google.com.br/maps/place/Nova+Friburgo,+RJ"
-- 🏫 Conheça: http://www.cefet-rj.br"
+- 🗺️ Localização: https://www.google.com.br/maps/place/Nova+Friburgo,+RJ
+- 🏫 Conheça: http://www.cefet-rj.br
 
 <div align="center">
   <a href="https://github.com/Halliday48">
