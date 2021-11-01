@@ -1,8 +1,8 @@
 ### ⭐ Ola!! Eu sou o Everson, sou estudante de informática do Cefet-rj e criei esse GitHub para organizar melhor as atividades e projetos estudantis!
 
 - 💻 Estudando: JavaScript, Python, HTML5 e CSS3
-- 📫 Contate-me: 
-- 🏫 Conheça: http://www.cefet-rj.br
+- 🗺️ Localização: https://www.google.com.br/maps/place/Nova+Friburgo,+RJ"
+- 🏫 Conheça: http://www.cefet-rj.br"
 
 <div align="center">
   <a href="https://github.com/Halliday48">
@@ -23,8 +23,8 @@
 ##  
   
 <div> 
-  <a href="studentprogramming48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "studentprogramming48@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
