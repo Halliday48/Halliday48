@@ -2,7 +2,7 @@
 
 - 💻 Estudando: JavaScript, Python, HTML5 e CSS3
 - 📫 Contate-me: 
-- 🏫 Conheça: 
+- 🏫 Conheça: http://www.cefet-rj.br
 
 <div align="center">
   <a href="https://github.com/Halliday48">
