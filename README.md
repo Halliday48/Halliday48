@@ -24,9 +24,13 @@
   
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   <a href = "mailto:studentprogramming48@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5522988717471&text=Para%20aqueles%20que%20desejam%20entrar%20em%20contato%20comigo!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+  <a href = "https://api.whatsapp.com/sendphone=5522988717471&text=Para%20aqueles%20que%20desejam%20entrar%20em%20contato%20comigo!%20S%C3%B3%20enviar%20a%20mensagem%20e%20aguardar%20alguns%20minutos%20que%20eu%20responderei!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
   <a href = ""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  
   <a href = "mailto:studentprogramming48@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
  
