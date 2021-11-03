@@ -20,7 +20,7 @@
   <img align="center" alt="Halli-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Halli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Halli-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" height="90em" alt= "Halli-PGif" src="https://cdn.discordapp.com/attachments/778652958703222794/905480200085708860/Programacao.gif">
+  <img align="right" height="120em" alt= "Halli-PGif" src="https://cdn.discordapp.com/attachments/778652958703222794/905480200085708860/Programacao.gif">
 </div>
 
 ##  
