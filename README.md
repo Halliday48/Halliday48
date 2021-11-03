@@ -20,7 +20,7 @@
   <img align="center" alt="Halli-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Halli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Halli-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" src="https://peibye.tumblr.com/post/38570974675">
+  <img align="right" alt= "Halli-PGif" src="https://discordapp.com/channels/@me/778652958703222794/905480200358334534">
 </div>
 
 ##  
