@@ -23,6 +23,8 @@
 </div>
 
 ##  
+  ![Snake animation](https://github.com/Halliday48/Halliday48/blob/output/github-contribution-grid-snake.svg)
+##
   
 - Links:  
   
@@ -34,6 +36,6 @@
   <a href = "mailto:studentprogramming48@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
  
-  ![Snake animation](https://github.com/Halliday48/Halliday48/blob/output/github-contribution-grid-snake.svg)
+  
   
 
